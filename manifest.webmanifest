@@ -1,0 +1,14 @@
+{
+  "name": "日本語ノート — Cuaderno de japonés",
+  "short_name": "日本語ノート",
+  "description": "Cuaderno personal de estudio de japonés: vocabulario, gramática, diálogos y exámenes.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#FDFBFF",
+  "theme_color": "#B9A6E8",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
